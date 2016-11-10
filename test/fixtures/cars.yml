@@ -1,0 +1,19 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  brand: MyText
+  client: one
+  model: MyText
+  contents: MyText
+  vin: MyText
+  color: 1
+  contract: one
+
+two:
+  brand: MyText
+  client: two
+  model: MyText
+  contents: MyText
+  vin: MyText
+  color: 1
+  contract: two
